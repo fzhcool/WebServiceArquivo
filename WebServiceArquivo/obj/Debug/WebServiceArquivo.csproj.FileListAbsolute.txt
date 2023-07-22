@@ -1,0 +1,20 @@
+c:\users\cicero.machado\documents\visual studio 2010\Projects\WebServiceArquivo\WebServiceArquivo\bin\WebServiceArquivo.dll
+c:\users\cicero.machado\documents\visual studio 2010\Projects\WebServiceArquivo\WebServiceArquivo\bin\WebServiceArquivo.pdb
+c:\users\cicero.machado\documents\visual studio 2010\Projects\WebServiceArquivo\WebServiceArquivo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\cicero.machado\documents\visual studio 2010\Projects\WebServiceArquivo\WebServiceArquivo\obj\Debug\WebServiceArquivo.dll
+c:\users\cicero.machado\documents\visual studio 2010\Projects\WebServiceArquivo\WebServiceArquivo\obj\Debug\WebServiceArquivo.pdb
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\bin\WebServiceArquivo.dll.config
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\bin\WebServiceArquivo.dll
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\bin\WebServiceArquivo.pdb
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\bin\System.Web.Http.dll
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\bin\System.Net.Http.Formatting.dll
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\bin\Newtonsoft.Json.dll
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\bin\System.Web.Http.xml
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\bin\System.Net.Http.Formatting.xml
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\obj\Debug\WebServiceArquivo.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\obj\Debug\WebServiceArquivo.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\obj\Debug\WebServiceArquivo.csproj.CopyComplete
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\obj\Debug\WebServiceArquivo.dll
+C:\Users\dell\Downloads\csharp-webservice-upload-download-arquivos-master\csharp-webservice-upload-download-arquivos-master\WebServiceArquivo\WebServiceArquivo\obj\Debug\WebServiceArquivo.pdb
