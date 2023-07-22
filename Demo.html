@@ -1,0 +1,40 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+  <meta charset="UTF-8">  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <title>文件上传</title>  
+</head>  
+<body>  
+  <input type="file" name="" id="fileInput" onchange="uploadFile()">  
+  <script>  
+ 
+        function uploadFile() {
+          var formData = new FormData();
+
+// 获取文件输入框的文件
+var fileInput = document.getElementById("fileInput"); // 假设您在前端有一个文件输入框，id为"fileInput"
+var file = fileInput.files[0];
+var fileName = '{"ObjectID":null,"UserID":"USERINFO_System"}';
+// 添加文件到FormData对象中
+formData.append("arquivoByte", file);
+formData.append("fileData", fileName);
+
+// 发起ajax请求上传文件
+var xhr = new XMLHttpRequest();
+xhr.open("POST", "http://localhost:60637/Servico.asmx/UploadFile"); // 替换成实际的后端接口地址
+xhr.onreadystatechange = function() {
+  if (xhr.readyState === 4 && xhr.status === 200) {
+    // 上传成功
+    var response = JSON.parse(xhr.responseText);
+    console.log(response); // 处理后端返回的响应
+  }
+};
+
+xhr.send(formData);
+        }
+    </script>
+  </script>  
+</body>  
+</html>
